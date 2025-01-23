@@ -6,9 +6,9 @@ setup(
     description='An Automatic Model Explanation Framework',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/autoxplainai',
+    author='Gopalakrishnan Arjunan',
+    author_email='gopalakrishnana02@gmail.com',
+    url='https://github.com/gopalakrishnanarjun/AutoXplainAI.git',
     packages=find_packages(),
     install_requires=open('requirements.txt').read().splitlines(),
     classifiers=[
