@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='AutoXplainAI',
-    version='0.2.0',
+    name='autoxplainai',
+    version='0.1.2',
     description='An Automatic Model Explanation Framework',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Gopalakrishnan Arjunan',
     author_email='gopalakrishnana02@gmail.com',
-    url='https://github.com/gopalakrishnanarjun/AutoXplainAI.git',
+    url='https://github.com/gopalakrishnanarjun/autoxplainai.git',
     packages=find_packages(),
     install_requires=open('requirements.txt').read().splitlines(),
     classifiers=[

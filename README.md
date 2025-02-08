@@ -1,6 +1,6 @@
-# AutoXplainAI
+# autoxplainai
 
-AutoXplainAI is an Automatic Model Explanation Framework that simplifies the process of interpreting machine learning models. It provides tools for generating explanations and visualizing them in an intuitive way.
+autoxplainai is an Automatic Model Explanation Framework that simplifies the process of interpreting machine learning models. It provides tools for generating explanations and visualizing them in an intuitive way.
 
 ## Features
 - Automatic generation of model explanations
