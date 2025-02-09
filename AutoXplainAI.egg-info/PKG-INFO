@@ -1,8 +1,8 @@
 Metadata-Version: 2.2
-Name: AutoXplainAI
-Version: 0.2.0
+Name: autoxplainai
+Version: 0.1.2
 Summary: An Automatic Model Explanation Framework
-Home-page: https://github.com/gopalakrishnanarjun/AutoXplainAI.git
+Home-page: https://github.com/gopalakrishnanarjun/autoxplainai.git
 Author: Gopalakrishnan Arjunan
 Author-email: gopalakrishnana02@gmail.com
 Classifier: Programming Language :: Python :: 3
@@ -25,9 +25,9 @@ Dynamic: requires-dist
 Dynamic: requires-python
 Dynamic: summary
 
-# AutoXplainAI
+# autoxplainai
 
-AutoXplainAI is an Automatic Model Explanation Framework that simplifies the process of interpreting machine learning models. It provides tools for generating explanations and visualizing them in an intuitive way.
+autoxplainai is an Automatic Model Explanation Framework that simplifies the process of interpreting machine learning models. It provides tools for generating explanations and visualizing them in an intuitive way.
 
 ## Features
 - Automatic generation of model explanations
